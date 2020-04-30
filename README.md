@@ -3,7 +3,6 @@
 App que faz busca de como está o clima nas cidades pelo mundo a fora. Utilizei um Framework muito poderoso, o incrível React-Native.
 
 <h1>Executar o Projeto</h1>
-<hr>
 
 1. Tenha o Node JS instalado
 2. tenha emulador android studio instalado

@@ -2,12 +2,24 @@
 # APP CLIMA TEMPO
 App que faz busca de como está o clima nas cidades pelo mundo a fora. Utilizei um Framework muito poderoso, o incrível React-Native.
 
-Ferramentas utilizadas:
+<h1>Executar o Projeto</h1>
+<hr>
 
-React-Native
-JavaScript
-HTML5
-CSS
-API REST
+1. Tenha o Node JS instalado
+2. tenha emulador android studio instalado
+3. execute o emulador 
+4. esteja na raiz do projeto
+5. execute o comando react-native run-android
+
+<h3>Ferramentas utilizadas: </h3>
+
+<ul>
+  <li>React-Native</li>
+  <li>JavaScript </li>
+  <li>CSS</li>
+  <li>API REST</li>
+</ul>
+
+
 
 
